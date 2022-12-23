@@ -484,7 +484,7 @@ function Home() {
                 data-wow-offset="50"
                 data-wow-delay="0.3s"
               >
-                WELCOME TO MY <span>ACHIEVEMENTS</span> SECTION
+                WELCOME TO MY <span>BLOG</span> SECTION
               </h2>
             </div>
             <div
@@ -514,12 +514,12 @@ function Home() {
             >
               <div class="portfolio-thumb">
                 <img
-                  src="assets/images/dresscoll.JPG"
+                  src="assets/images/dresscoll.jpg"
                   class="img-responsive"
                   alt="portfolio img 2"
                 />
                 <div class="portfolio-overlay">
-                  <h4>One</h4>
+                  <h4>two</h4>
                   <h3>first year project time</h3>
                   <a href="#" class="btn btn-default">
                     More info...
@@ -634,7 +634,7 @@ function Home() {
             >
               <div class="portfolio-thumb">
                 <img
-                  src="assets/images/schoolimg.JPG"
+                  src="assets/images/schoolimg.jpg"
                   class="img-responsive"
                   alt="portfolio img 2"
                 />
@@ -703,8 +703,8 @@ function Home() {
               <address>
                 <p className="address-title">Contact Me</p>
                 <span>
-                  <a href="https://drive.google.com/file/d/1EeFwmoUuRndQl_MKQXPijL1BLqaKq-a9/view?usp=share_link">
-                    <button className="resume" type="submit">
+                  <a href="https://drive.google.com/file/d/1EeFwmoUuRndQl_MKQXPijL1BLqaKq-a9/view?usp=share_link" target="_blank">
+                    <button className="resume target-blank" type="submit">
                       Click Here To Download My Resume
                     </button>
                   </a>
@@ -727,25 +727,25 @@ function Home() {
                 </li>
                 <li>
                   <a
-                    href="https://github.com/parvez-20222"
+                    href="https://github.com/parvez-20222"target="_blank"
                     className="fa fa-github"
                   ></a>{" "}
                 </li>
                 <li>
                   <a
-                    href="https://www.linkedin.com/in/parvez-alam-1340791b8/"
+                    href="https://www.linkedin.com/in/parvez-alam-1340791b8/"target="_blank"
                     className="fa fa-linkedin"
                   ></a>
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/parvezalam4756/"
+                    href="https://www.instagram.com/parvezalam4756/"target="_blank"
                     className="fa fa-instagram"
                   ></a>
                 </li>
                 <li>
                   <a
-                    href="https://www.youtube.com/@parvezalamshaan7500/featured"
+                    href="https://www.youtube.com/@parvezalamshaan7500/featured"target="_blank"
                     className="fa fa-youtube"
                   ></a>
                 </li>

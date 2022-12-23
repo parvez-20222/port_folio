@@ -57,7 +57,7 @@ function Hire() {
               <address>
                 <p className="address-title">Contact Me</p>
                 <span>
-                  <a href="https://drive.google.com/file/d/1EeFwmoUuRndQl_MKQXPijL1BLqaKq-a9/view?usp=share_link">
+                  <a href="https://drive.google.com/file/d/1EeFwmoUuRndQl_MKQXPijL1BLqaKq-a9/view?usp=share_link" target="_blank">
                     <button className="resume" type="submit">
                       Click Here To Download My Resume
                     </button>

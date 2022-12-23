@@ -12,7 +12,7 @@ function Achievements() {
                 data-wow-offset="50"
                 data-wow-delay="0.3s"
               >
-                WELCOME TO MY <span>ACHIEVEMENTS</span> SECTION
+                WELCOME TO MY <span>BLOG</span> SECTION
               </h2>
             </div>
             <div
@@ -42,7 +42,7 @@ function Achievements() {
             >
               <div class="portfolio-thumb">
                 <img
-                  src="assets/images/dresscoll.JPG"
+                  src="assets/images/dresscoll.jpg"
                   class="img-responsive"
                   alt="portfolio img 2"
                 />
@@ -162,7 +162,7 @@ function Achievements() {
             >
               <div class="portfolio-thumb">
                 <img
-                  src="assets/images/schoolimg.JPG"
+                  src="assets/images/schoolimg.jpg"
                   class="img-responsive"
                   alt="portfolio img 2"
                 />

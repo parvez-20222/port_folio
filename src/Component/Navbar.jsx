@@ -29,7 +29,7 @@ function Navbar() {
 						<li><Link to="/skills">SKILLS</Link></li>
 						<li><Link to="/education">EDUCATION</Link></li>
 						<li><Link to="/projects">PROJECTS</Link></li>
-						<li><Link to="/achievements">ACHIEVEMENTS</Link></li>
+						<li><Link to="/achievements">BLOGS</Link></li>
 						<li><Link to="/hire">HIRE</Link></li>
 					</ul>
 				</div>

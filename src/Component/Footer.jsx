@@ -16,10 +16,10 @@ function Footer() {
                     <div className="col-md-5 col-sm-4 col-xs-12">
                         <ul className="social-icon">
                             <li><span> <h4><b>Meet me on</b></h4> </span></li>
-                            <li><a href="https://github.com/parvez-20222" className="fa fa-github"></a> </li>
-                            <li><a href="https://www.linkedin.com/in/parvez-alam-1340791b8/" className="fa fa-linkedin"></a></li>
-                            <li><a href="https://www.instagram.com/parvezalam4756/" className="fa fa-instagram"></a></li>
-                            <li><a href="https://www.youtube.com/@parvezalamshaan7500/featured" className="fa fa-youtube"></a></li>
+                            <li><a href="https://github.com/parvez-20222"target="_blank" className="fa fa-github"></a> </li>
+                            <li><a href="https://www.linkedin.com/in/parvez-alam-1340791b8/"target="_blank" className="fa fa-linkedin"></a></li>
+                            <li><a href="https://www.instagram.com/parvezalam4756/"target="_blank" className="fa fa-instagram"></a></li>
+                            <li><a href="https://www.youtube.com/@parvezalamshaan7500/featured"target="_blank" className="fa fa-youtube"></a></li>
                              
                         </ul>
                     </div>
