@@ -113,7 +113,7 @@ function Education() {
                         <th scope="row">1</th>
                         <td>B.Tech</td>
                         <td>2022</td>
-                        <td>80%</td>
+                        <td>73%</td>
                       </tr>
                     </tbody>
                   </table>
@@ -148,7 +148,7 @@ function Education() {
                         <th scope="row">1</th>
                         <td>MERN</td>
                         <td>2022</td>
-                        <td>50%</td>
+                        <td>90%</td>
                       </tr>
                     </tbody>
                   </table>

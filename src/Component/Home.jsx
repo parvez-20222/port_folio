@@ -11,7 +11,7 @@ function Home() {
               <h1 className="wow fadeIn" data-wow-offset="50" data-wow-delay="0.9s">
                 {" "}
                 <strong>Hey,</strong> <br /> <b> I'm Parvez Alam</b> <br />
-                <span>Front End Developer</span>
+                <span>Full stack Developer</span>
               </h1>
               <Link
                 data-scroll
@@ -131,12 +131,12 @@ function Home() {
                       <tr>
                         <th scope="row">1</th>
                         <td>NODE JS</td>
-                        <td>-----</td>
+                        <td>80%</td>
                       </tr>
                       <tr>
                         <th scope="row">2</th>
                         <td>EXPRESS JS</td>
-                        <td>-----</td>
+                        <td>75%</td>
                       </tr>
                     </tbody>
                   </table>
@@ -155,7 +155,7 @@ function Home() {
                       <tr>
                         <th scope="row">1</th>
                         <td>MONGO DB</td>
-                        <td>-----</td>
+                        <td>80%</td>
                       </tr>
                     </tbody>
                   </table>
@@ -347,7 +347,7 @@ function Home() {
                         <th scope="row">1</th>
                         <td>B.Tech</td>
                         <td>2022</td>
-                        <td>80%</td>
+                        <td>73%</td>
                       </tr>
                     </tbody>
                   </table>
@@ -422,12 +422,7 @@ function Home() {
                 interact and share data using various components and
                 microservices.
               </h5>
-              <a
-                href="#"
-                target="_blank"
-              >
-                <button class="live">Live Preview</button>
-              </a>
+            
             </div>
             <div
               class="col-md-4 active wow fadeIn"
@@ -446,9 +441,7 @@ function Home() {
                 email blasts and website UX, increasing engagement by roughly
                 18% on average.
               </h5>
-              <a href="#">
-                <button class="live">Live Preview</button>
-              </a>
+              
             </div>
             <div
               class="col-md-4 wow fadeIn"
@@ -467,9 +460,7 @@ function Home() {
                 info...s, images, and video .Users can also bookmark any news
                 article/video for future use.
               </h5>
-              <a href="#">
-                <button class="live">Live Preview</button>
-              </a>
+              
             </div>
           </div>
         </div>
@@ -501,9 +492,8 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>One</h4>
                   <h3>lotas temple enjoy</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
+                  
                 </div>
               </div>
             </div>
@@ -521,9 +511,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>two</h4>
                   <h3>first year project time</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -541,9 +529,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>Three</h4>
                   <h3>photo shot lotus temple</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -561,9 +547,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>Four</h4>
                   <h3>College friend photo shot</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -581,9 +565,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>Five</h4>
                   <h3>Lalkila walking and enjoy</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -601,9 +583,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>Six</h4>
                   <h3>College  class friend</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -621,9 +601,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>Seven</h4>
                   <h3>College friend photo shot</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -641,9 +619,7 @@ function Home() {
                 <div class="portfolio-overlay">
                   <h4>Eight</h4>
                   <h3>inter mediate time photo</h3>
-                  <a href="#" class="btn btn-default">
-                    More info...
-                  </a>
+                 
                 </div>
               </div>
             </div>

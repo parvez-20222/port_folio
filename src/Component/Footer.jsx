@@ -32,7 +32,7 @@ function Footer() {
                 <div className="row">
                     <div className="col-md-12 text-center">
                         <p className="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s">
-                       	Copyright &copy; 2022 <b>Parvez Alam</b></p>
+                       	 &copy; 2022 <b>Parvez Alam</b></p>
                     </div>
                 </div>
             </div>

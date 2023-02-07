@@ -107,12 +107,12 @@ function Skills() {
                       <tr>
                         <th scope="row">1</th>
                         <td>NODE JS</td>
-                        <td>-----</td>
+                        <td>80%</td>
                       </tr>
                       <tr>
                         <th scope="row">2</th>
                         <td>EXPRESS JS</td>
-                        <td>-----</td>
+                        <td>75%</td>
                       </tr>
                     </tbody>
                   </table>
@@ -131,7 +131,7 @@ function Skills() {
                       <tr>
                         <th scope="row">1</th>
                         <td>MONGO DB</td>
-                        <td>-----</td>
+                        <td>80%</td>
                       </tr>
                     </tbody>
                   </table>
